@@ -1,0 +1,16 @@
+added addis
+trying to delete addi: not found
+trying to delete mflr: not found
+added std
+trying to delete stdu: not found
+counted std
+trying to delete mr: not found
+added li
+counted li
+counted std
+trying to delete std: deleted
+counted li
+trying to delete bl: not found
+added nop
+counted addis
+result: li 3
